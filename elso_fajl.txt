@@ -3,5 +3,9 @@ kettő
 három
 négy
 öt
+továbbfejlesztés
+6
+7
+
 
 
